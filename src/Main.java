@@ -26,5 +26,6 @@ public class Main {
         int kidsInFamily = 6;
         System.out.println("The number of kids in my family is " + kidsInFamily);
         boolean isRaining = false;
+        System.out.println("Is Raining? " + isRaining);
     }
 }
